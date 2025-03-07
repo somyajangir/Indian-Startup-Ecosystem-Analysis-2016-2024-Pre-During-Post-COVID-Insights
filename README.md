@@ -22,5 +22,5 @@ This project analyzes the **Indian startup ecosystem** from **2016 to 2024**, fo
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/indian-startup-analysis.git
+   git clone https://github.com/somyajangir/Indian-Startup-Ecosystem-Analysis-2016-2024-Pre-During-Post-COVID-Insights.git
    cd indian-startup-analysis
