@@ -10,7 +10,7 @@ This project analyzes the **Indian startup ecosystem** from **2016 to 2024**, fo
 ## 📂 Project Structure
 
 - 📊 **Dataset:** Official dataset sourced from [Startup India Portal](https://www.startupindia.gov.in)  
-- 📘 **Analysis Notebook (main.ipynb):** Detailed Python code for data cleaning, visualization, and statistical analysis.  
+- 📘 **Analysis Notebook (pre_post_covid_startups.ipynb):** Detailed Python code for data cleaning, visualization, and statistical analysis.  
 - 📄 **Final Report (PDF):** A comprehensive report summarizing insights on pre-COVID, during-COVID, and post-COVID startup trends.  
 
 --
